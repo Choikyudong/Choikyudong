@@ -1,4 +1,4 @@
-<h1>Hi there 👋</h1>
+<div align=center><h1>Hi there 👋</h1></div>
 
 [![Choikyudong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choikyudong)](https://github.com/anuraghazra/github-readme-stats)
 
