@@ -1,1 +1,5 @@
-<div align=center style="font-size: 24px;">Hi</div>
+<div align="center">
+  <span style="font-size: 28px; font-weight: bold;">
+    HI
+  </span>
+</div>
