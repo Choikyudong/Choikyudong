@@ -1,1 +1,1 @@
-<div align=center style="">Hi</div>
+<div align=center style="font-size: 24px;">Hi</div>
